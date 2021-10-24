@@ -6,4 +6,7 @@
     <string name="hora">Hora</string>
     <string name="criar_tarefa">Criar Tarefa</string>
     <string name="cancelar">Cancelar</string>
+    <string name="label_new_task">Criar Tarefas</string>
+    <string name="label_tasks">Tarefas</string>
+    <string name="label_description_new_task">Nova Tarefa</string>
 </resources>

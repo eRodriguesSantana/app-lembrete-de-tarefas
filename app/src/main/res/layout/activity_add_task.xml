@@ -10,7 +10,7 @@
         app:layout_constraintTop_toTopOf="parent"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        app:title="Criar Tarefas"
+        app:title="@string/label_new_task"
         app:navigationIcon="@drawable/ic_navigate"/>
 
     <androidx.constraintlayout.widget.Guideline
